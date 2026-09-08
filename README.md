@@ -1,2 +1,3 @@
 # ezstore
-A Simple Store 
+
+A Simple Store
